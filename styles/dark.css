@@ -43,6 +43,10 @@ button:hover {
     background-color: #444;
 }
 
+img {
+    width: 400px;
+}
+
 input, textarea {
     background-color: #1f1f1f;
     color: #e0e0e0;
